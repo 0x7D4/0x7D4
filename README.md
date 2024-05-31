@@ -22,17 +22,14 @@ CTF's | Research | Python
 <br>
 
 
-<div align="center">
-<img src="https://holopin.me/tushardaiya"/>
 
-<div align="center">
 
 ### Contact Me
 
 
 <p>
-<a href="https://twitter.com/tushardaiya" rel="nofollow"><img alt="Twitter" src="https://github.com/tushar-daiya/tushar-daiya/assets/108505673/d413de6c-4778-4aff-90da-ac6971413124" style="width:32px" ></a>
-<a href="https://www.linkedin.com/in/tushardaiya" rel="nofollow"><img alt="LinkedIn" src="https://github.com/tushar-daiya/tushar-daiya/assets/108505673/4a3ce5ae-bb69-476d-b7b7-e1fc57456fbd" style="width:32px; margin-left:20px" ></a> 
-<a href="https://instagram.com/tushardaiya"><img alt="Instagram" src="https://github.com/tushar-daiya/tushar-daiya/assets/108505673/31ac7afd-d546-418c-abc3-ead6e1774a85" style="width:32px; margin-left:20px" ></a> 
+<a href="https://twitter.com/ofcsumeet" rel="nofollow"><img alt="Twitter" src="https://github.com/tushar-daiya/tushar-daiya/assets/108505673/d413de6c-4778-4aff-90da-ac6971413124" style="width:32px" ></a>
+<a href="https://www.linkedin.com/in/ofcsumeet" rel="nofollow"><img alt="LinkedIn" src="https://github.com/tushar-daiya/tushar-daiya/assets/108505673/4a3ce5ae-bb69-476d-b7b7-e1fc57456fbd" style="width:32px; margin-left:20px" ></a> 
+<a href="https://instagram.com/ofcsumeet"><img alt="Instagram" src="https://github.com/tushar-daiya/tushar-daiya/assets/108505673/31ac7afd-d546-418c-abc3-ead6e1774a85" style="width:32px; margin-left:20px" ></a> 
 </p>
 </div>
