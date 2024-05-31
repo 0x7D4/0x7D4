@@ -6,7 +6,7 @@ I am a Student, CTF Player and a Research Intern.
 
 ### Technical Skills
 <div style="display:flex; gap:10px">
-<img src="https://th.bing.com/th/id/OIP.JVt34lGxmm0GAGNNL_mwBgHaHa?w=197&h=197&c=7&r=0&o=5&dpr=1.3&pid=1.7"><img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+<img src="https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=k3edqLFjWyFC1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG22.png&ehk=ffHItQzD%2fUaKL%2bPOiED3dtDd9YUI%2fJRUzYL5raCZnR8%3d&risl=&pid=ImgRaw&r=0"><img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 </div>
  <br />
 
