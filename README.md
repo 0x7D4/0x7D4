@@ -1,12 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tushar-daiya/tushar-daiya/assets/108505673/6e1345e9-c83c-4906-b4d3-6cff1cbc5916">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tushar-daiya/tushar-daiya/assets/108505673/e7f65af2-7d78-408e-a265-ad590b61f389">
-  <img alt="banner" src="https://github.com/tushar-daiya/tushar-daiya/assets/108505673/6e1345e9-c83c-4906-b4d3-6cff1cbc5916">
-</picture>
+## Hey there! I'm Sumeet 👋
 
-## Hey there! I'm Tushar 👋
-
-I am a front end developer from India and I love contributing to open source.
+I am a Student, CTF Player and a Research Intern.
 
 
 
@@ -18,11 +12,11 @@ I am a front end developer from India and I love contributing to open source.
 
 ### My Interests
 
-Open Source Contributor | Web developer | DSA 
+CTF's | Research | Python 
 
 
 ### My Stats
-| ![Tushar Daiya github stats](https://github-readme-stats-mc4l.vercel.app/api?username=tushar-daiya\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_radius=8) | ![Tushar Daiya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tushar-daiya&theme=tokyonight&border_radius=8) |
+| ![Sumeet Jana github stats](https://github-readme-stats-mc4l.vercel.app/api?username=sumeetbwu\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_radius=8) | ![Sumeet Jana GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumeetbwu&theme=tokyonight&border_radius=8) |
 | -- | -- |
 
 <br>
