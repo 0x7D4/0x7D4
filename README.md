@@ -16,7 +16,7 @@ CTF's | Research | Python
 
 
 ### My Stats
-| ![Sumeet Jana github stats](https://github-readme-stats-mc4l.vercel.app/api?username=sumeetbwu\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_radius=8) | ![Sumeet Jana GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumeetbwu&theme=tokyonight&border_radius=8) |
+| ![Sumeet Jana github stats](https://github-readme-stats-mc4l.vercel.app/api?username=0x7d4\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&border_radius=8) | ![Sumeet Jana GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumeetbwu&theme=tokyonight&border_radius=8) |
 | -- | -- |
 
 <br>
