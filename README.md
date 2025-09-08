@@ -1,6 +1,6 @@
 ## Hey there! I'm Sumeet 👋
 
-I am a Student, CTF Player and a Research Intern.
+Researcher at IIFON
 
 
  
